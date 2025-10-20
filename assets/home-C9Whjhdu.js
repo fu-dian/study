@@ -1,0 +1,1 @@
+import{b as e,o as t,t as n}from"./index-Che1PTwn.js";var r={};function i(n,r){return e(),t(`div`,null,`5555`)}var a=n(r,[[`render`,i]]);export{a as default};
